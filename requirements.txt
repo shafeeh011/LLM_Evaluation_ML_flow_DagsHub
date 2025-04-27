@@ -1,0 +1,17 @@
+langchain
+langchain_community
+langchain_openai
+openai
+tiktoken
+mlflow
+faiss-cpu
+starlette
+fastapi
+watchfiles
+slowapi
+gunicorn
+waitress
+load_dotenv
+dagshub
+evaluate 
+textstat
